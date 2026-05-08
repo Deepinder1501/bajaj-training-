@@ -1,0 +1,57 @@
+Two sum - https://leetcode.com/problems/two-sum/submissions/1953185066/
+
+Running Sum- https://leetcode.com/problems/running-sum-of-1d-array/submissions/1913543587/
+
+Find Pivot Index - https://leetcode.com/problems/find-pivot-index/submissions/1914644570/
+
+Max Subarray sum - https://leetcode.com/problems/maximum-subarray/submissions/1424190342/
+
+Valid Anagram - https://leetcode.com/problems/valid-anagram/submissions/1402833906/
+
+Intersection of 2 arrays - https://leetcode.com/problems/intersection-of-two-
+arrays/submissions/1899827558/
+
+Range sum query - https://leetcode.com/problems/range-sum-query-immutable/submissions/1914640713/
+
+Subarray sum equals k - https://leetcode.com/problems/subarray-sum-equals-k/submissions/1915917592/
+
+Two sum 2 - https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1913491307/
+
+Valid Palindrome - https://leetcode.com/problems/valid-palindrome/submissions/1961922590/
+
+Container with most water - https://leetcode.com/problems/container-with-most-water/submissions/1980887247/
+
+Sort Colors- https://leetcode.com/problems/sort-colors/submissions/1991800876/
+
+Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1978854563/
+
+Permutation in String - https://leetcode.com/problems/permutation-in-string/submissions/1412346785/
+
+Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/submissions/1595486434/
+
+Middle of Linked List - https://leetcode.com/problems/middle-of-the-linked-list/submissions/1595494967/
+
+Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/submissions/1909433856/
+
+Palindrome Linked List - https://leetcode.com/problems/palindrome-linked-list/submissions/1716828885/
+
+Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/submissions/1971184111/
+
+Binary Search - https://leetcode.com/problems/binary-search/submissions/1529677145/
+
+Search Insert Position - https://leetcode.com/problems/search-insert-position/submissions/1922091470/
+
+Find Peak Element - https://leetcode.com/problems/find-peak-element/submissions/1378744750/
+
+First Bad Version - https://leetcode.com/problems/first-bad-version/submissions/1997410123/
+
+Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1715829400/
+
+Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1718217689/
+
+Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/submissions/1929870399/
+
+Koko Eating Bananas - https://leetcode.com/problems/koko-eating-bananas/submissions/1922439962/
+
+
+
